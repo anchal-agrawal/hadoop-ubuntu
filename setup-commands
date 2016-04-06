@@ -1,0 +1,5 @@
+sudo apt-get update
+echo yes | sudo apt-get install default-jdk
+
+# Find download mirror on http://www.apache.org/dyn/closer.cgi/hadoop/common/
+# Fetch and untar the binary package
