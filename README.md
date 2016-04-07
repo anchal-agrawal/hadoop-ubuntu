@@ -1,6 +1,8 @@
 # hadoop-ubuntu
 
-Everything to deploy a Hadoop cluster on Ubuntu
+Everything to deploy a Hadoop cluster on Ubuntu.
+
+This guide works for current Hadoop versions upto `2.7.2`. Configs for future versions might differ.
 
 #### Bootstrap node
 
